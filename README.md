@@ -4,13 +4,13 @@
 
 For the first deliverable I made a basic humanoid character in makehuman using the tools the software provides such as body type control, hair and clothing. After this I imported the model into blender. Some issues were encountered, mainly that the textures were not displaying correctly which needed to be manually fixed by changing or removing alpha channels on each part. Then each part of the model was combined into one. After this I made a basic humanoid animation skeleton for rigging purposes.
 
-Fig 1: My (admittedly not very accurate) Danny Devito model in makehuman.
+Fig 1: My Danny Devito model in makehuman.
 
-![Figure 1](Screenshots/Fig1.png)
+![Figure 1](ScreenshotsandVid/Dannydevito.png)
 
 Fig 2: Imported into blender and created bones for rigging.
 
-![Figure 2](Screenshots/Fig2.png)
+![Figure 2](ScreenshotsandVid/Dannyinblender.png)
 
 ## Deliverable 2: Importing avatar into Unity and applying the model to the starter assets third person controller and its animations.
 
@@ -26,8 +26,8 @@ Ragdolling is controller by two scripts, one controlling the ragdoll logic, and 
 
 Fig 3: Meta channel for ragdolling in swim animation.
 
-![Figure 3](Screenshots/Fig3.png)
+![Figure 3](ScreenshotsandVid/MetaSwim.png)
 
 Fig 4: Video demonstration of it all working together.
 
-[Video demonstration](YOUR_VIDEO_LINK_HERE)
+[Video demonstration](ScreenshotsandVid/demovideo.mkv)
