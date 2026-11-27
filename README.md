@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/289f89ef-3501-4b4a-9415-31b702f49ffc
+
 
 # Animation Continuous Assessment Report
 
@@ -34,4 +34,4 @@ Fig 3: Meta channel for ragdolling in swim animation.
 
 Fig 4: Video demonstration of it all working together.
 
-[Video demonstration](ScreenshotsandVid/demovideo.mp4)
+https://github.com/user-attachments/assets/289f89ef-3501-4b4a-9415-31b702f49ffc
