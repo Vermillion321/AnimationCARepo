@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/289f89ef-3501-4b4a-9415-31b702f49ffc
+
 # Animation Continuous Assessment Report
 
 ## Deliverable 1: Avatar creation in makehuman and import to blender
