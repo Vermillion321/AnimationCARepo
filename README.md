@@ -30,4 +30,4 @@ Fig 3: Meta channel for ragdolling in swim animation.
 
 Fig 4: Video demonstration of it all working together.
 
-[Video demonstration](ScreenshotsandVid/demovideo.mkv)
+[Video demonstration](ScreenshotsandVid/demovideo.mp4)
